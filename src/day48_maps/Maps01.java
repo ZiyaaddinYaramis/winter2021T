@@ -1,7 +1,6 @@
-package day48_Maps;
+package day48_maps;
 
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class Maps01 {
