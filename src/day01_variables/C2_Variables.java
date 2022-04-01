@@ -18,9 +18,11 @@ public class C2_Variables {
 		
 		System.out.println(sayiDouble);
 		
-		System.out.println(sayi + sayiDouble);
+		System.out.println(sayi + sayiDouble); // 27 + 5.34 = 32.34
 		
 		System.out.println(sayi + ilkHarf); // 27 + 77 = 104
 		// Eger bir toplama isleminde char degisken kullanilirsa karakterin Ascii degeri ile toplama yapilir
+		// char data turundeki degiskenler matematiksel islemlerde kullanilirsa ASCII TABLOSU DEVREYE GIRER
+		// java o karekter yerine ASCII tablosundaki degeri kullanir
 	}
 }

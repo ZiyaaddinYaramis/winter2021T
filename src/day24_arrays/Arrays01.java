@@ -30,7 +30,7 @@ public class Arrays01 { // Arrays = Diziler demektir
 								// Bu kullanimda  max eleman sayisi (length) yazdigimiz eleman sayisidir.
 		
 		System.out.println(arr); // Array bir object'tir
-								// Eger direk olarak Array'i yazdirmak isterseniz Java ref'i yazdirir
+								 // Eger direk olarak Array'i yazdirmak isterseniz Java ref'i yazdirir
 		
 		System.out.println(Arrays.toString(arr)); // [10, 20, 30]
 		
@@ -47,8 +47,8 @@ public class Arrays01 { // Arrays = Diziler demektir
 		System.out.println(Arrays.toString(takim)); // [Ali, Veli, Hasan]
 		
 		// takim[3]="Mehmet";   // Java Run time programdir, dolayisiyla array programi calistirilinca
-							   // olusturulur. 42. satirda syntax olarak hata olmadigindan CTE olmaz
-							   // program calistiginda 3. index olmadigi icin RTE verir
+							    // olusturulur. 42. satirda syntax olarak hata olmadigindan CTE olmaz
+							    // program calistiginda 3. index olmadigi icin RTE verir
 		
 		// Array'deki bir elemani update
 		// veli'nin yerine kemal gelsin
