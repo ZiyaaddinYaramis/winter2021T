@@ -42,7 +42,7 @@ public class C3_PassByValue03 {
 		
 		System.out.println("Set ile degistirdigimiz liste method'un icinde : " + list); // [13, 14, 15]
 		// Java Pass By Value kullanir ancak list'deki set method'u istisnai olarak
-		// method'un icinde yapilan degoisiklikleri de kalici hale getirir.
+		// method'un icinde yapilan degisiklikleri de kalici hale getirir.
 	}
 
 	
